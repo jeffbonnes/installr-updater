@@ -3,6 +3,8 @@ An easy way to prompt your beta testers to update to a new build when there is a
 
 If you use [Installr](http://www.installrapp.com) to distribute the betas of your Titanium apps (and you should!) this is an easy way to ensure they upgrade to a new version once you upload it to installr.
 
+It will only run if the app is not in production.
+
 Usage:
 
 ```
